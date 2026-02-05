@@ -20,7 +20,7 @@ To write a program to find the LU Decomposition of a matrix.
 
 Developed by: R.DEEPIKA
 
-RegisterNumber: 25016530
+RegisterNumber: 212225230046
 '''
 
 import numpy as np
@@ -41,7 +41,7 @@ print(U)
 
 Developed by: R.DEEPIKA
 
-RegisterNumber: 25016530
+RegisterNumber: 212225230046
 
 '''
 
